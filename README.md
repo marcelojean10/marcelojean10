@@ -1,6 +1,6 @@
 # Marcelo Jean
 
-Mid-level Developer at @DeliverIt.
+Back-end Developer at @Flapper.
 
  <div>
   <a href="https://github.com/marcelojean10">
