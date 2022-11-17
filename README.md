@@ -1,6 +1,6 @@
 # Marcelo Jean
 
-Back-end Developer at @Flapper.
+Engineer Software Backend at @Adventures.
 
  <div>
   <a href="https://github.com/marcelojean10">
