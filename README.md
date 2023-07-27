@@ -1,6 +1,6 @@
 # Marcelo Jean
 
-Engineer Software Backend at @Adventures.
+ Software Developer at @Brandlovrs.
 
  <div>
   <a href="https://github.com/marcelojean10">
